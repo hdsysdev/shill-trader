@@ -1,4 +1,4 @@
-package com.hddev.shilltrader.ShillTrader
+package com.hddev.shilltrader
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
